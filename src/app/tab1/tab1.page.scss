@@ -1,0 +1,28 @@
+.scream{
+    width: 99vw;
+    height: 99vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scan{
+    position: relative;
+    height: 70vw;
+    width: 70vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+    border: 4px dashed #ff0000;
+    border-radius: 10px;
+
+    img{
+        height: 90%;
+        background-color: #ffffff;
+        border-radius: 10px;
+    }
+}
